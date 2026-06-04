@@ -1,0 +1,15 @@
+Epic: Portfolio Management
+US-001
+
+As a Portfolio Manager
+
+I want to create portfolios
+
+So that investments can be tracked.
+
+Acceptance Criteria
+Given I am logged in
+
+When I enter portfolio details
+
+Then portfolio should be created successfully
