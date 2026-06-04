@@ -1,0 +1,8 @@
+| Test Case | Scenario         | Expected Result   |
+| --------- | ---------------- | ----------------- |
+| TC001     | Login            | Login Successful  |
+| TC002     | Create Portfolio | Portfolio Created |
+| TC003     | Edit Portfolio   | Portfolio Updated |
+| TC004     | Delete Portfolio | Portfolio Deleted |
+| TC005     | Generate Report  | PDF Generated     |
+| TC006     | Export Excel     | Excel Downloaded  |
