@@ -1,9 +1,5 @@
 # Investment Portfolio Management System
 
-## Overview
-
-This repository demonstrates the complete Business Analysis lifecycle for an Investment Portfolio Management System.
-
 ## Business Objective
 
 Develop a centralized platform that enables portfolio managers to:
